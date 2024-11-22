@@ -6,7 +6,7 @@ body {
     height: 100vh;
     background: linear-gradient(135deg, #71b7e6, #9b59b6);
     margin: 0;
-    flex-direction: coloumn;
+      flex-direction: column;
 }
 
 .container {
