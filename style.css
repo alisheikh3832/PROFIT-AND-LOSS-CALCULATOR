@@ -6,6 +6,7 @@ body {
     height: 100vh;
     background: linear-gradient(135deg, #71b7e6, #9b59b6);
     margin: 0;
+    flex-direction: coloumn;
 }
 
 .container {
@@ -67,6 +68,10 @@ button:hover {
 @keyframes fadeIn {
     from {
         opacity: 0;
+        .myname {
+    color: #0056b3;
+    
+}
     }
     to {
         opacity: 1;
